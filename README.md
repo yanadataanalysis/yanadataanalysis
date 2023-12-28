@@ -1,4 +1,7 @@
 ### Hi there 👋
+<br />
+Привет, меня зовут Яна, занимаюсь анализом данных.
+<br />
 
 <!--
 **yanadataanalysis/yanadataanalysis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
